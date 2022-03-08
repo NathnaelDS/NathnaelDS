@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NathnaelDS
-- 👀 I’m interested in Design, Design Systems, Frontend and Teaching.
-- 🌱 I’m currently learning testing in JavaScript.
+- 👀 I’m interested in Design Systems, Developing for the Web and Teaching.
+- 🌱 I’m currently learning Svelte.
 - 📫 How to reach me: [@nathnaelds](https://www.twitter.com/nathnaelds)
 
 <!---
