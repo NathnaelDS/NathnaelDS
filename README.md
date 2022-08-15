@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NathnaelDS
+- 👋 Hi, I’m Nathnael
 - 👀 I’m interested in Design Systems, Developing for the Web and Teaching.
-- 🌱 I’m currently learning Svelte.
+- 🌱 I’m currently learning Svelte and Elixir.
 - 📫 How to reach me: [@nathnaelds](https://www.twitter.com/nathnaelds)
 
 <!---
